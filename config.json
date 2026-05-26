@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "autheave",
+        "uuid": 9522716,
+        "checksum": "gs45hi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
